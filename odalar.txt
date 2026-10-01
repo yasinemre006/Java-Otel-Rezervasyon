@@ -1,0 +1,2 @@
+101,Tek Kisilik,1500.0
+102,Cift Kisilik,2500.0
